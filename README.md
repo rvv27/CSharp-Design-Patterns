@@ -2,7 +2,7 @@
 All Major Design patterns, each with distinct VS project combined in a single solution. Design patterns are important for writing efficient code in less time with less bugs.
 
 # Important Points
-- This repo is derived and converted from @iluwatar 's repository: https://github.com/iluwatar/java-design-patterns
+- This repo is derived and converted from @iluwatar 's repository: https://github.com/iluwatar/java-design-patterns. If you can Star/Support/Sponser that Repo.
 - Useful if you are less familiar with Java Syntax and prefer C#.
 - Iluwatar's repo contains lot more design patterns which are updated on Regular basis. I would try to port as many design patterns as possible.
 - Contributions are welcome.
